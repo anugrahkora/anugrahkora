@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @anugrahkora
-- 👀 I’m interested in Android application development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @anugrah_kora 
+<h1 align="center"> Hi 👋, I'm a Junior Flutter Developer 😜</h3>
 
-<!---
-anugrahkora/anugrahkora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🌱 &ensp;I’m currently learning, and developing using Flutter Framework ❤️
+- 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
+<br />
+<br />
+
+### Languages and Tools
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
+[<img align="left" alt=“VS Code” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][youtube]
+
+
+
+<br />
+<br />
+
+
+---
+
+[linkedin]: https://www.linkedin.com/in/anugrah-k-22b763202/
+[github]: https://github.com/anugrahkora
+[instagram]: https://www.instagram.com/front.enddev
+[email]: mailto:anugrahkorembeth.ak@gmail.com
