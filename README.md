@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm a Junior Flutter Developer 😜</h3>
+<h1 align="center"> Hi 👋, I'm a Junior Flutter Developer</h3>
 
 
 - 🌱 &ensp;I’m currently learning, and developing using Flutter Framework ❤️
