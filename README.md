@@ -1,4 +1,4 @@
-![Anugrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anugrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahkora&show_icons=true&count_private=true)
 
 
 <h1 align="center"> Hi 👋, I'm a Junior Flutter Developer!</h3>
