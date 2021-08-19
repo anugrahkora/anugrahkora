@@ -1,3 +1,6 @@
+![Anugrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 <h1 align="center"> Hi 👋, I'm a Junior Flutter Developer!</h3>
 
 
