@@ -1,8 +1,4 @@
-![Anugrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahkora&show_icons=true&count_private=true)
-
-
 <h1 align="left"> Hi 👋, I'm a Junior Flutter Developer!</h3>
-
 
 - 🌱 &ensp;I’m currently learning, and developing using Flutter Framework ❤️
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] [**Email**][email] [**Linkedin**][linkedin]
