@@ -11,7 +11,7 @@
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“JavaScript” width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
-<img align="left" alt=“Node JS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
+<img align="left" alt=“Node JS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <br />
 <br />
