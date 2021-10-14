@@ -1,7 +1,6 @@
 <h1 align="left"> Hi 👋, I'm a Junior Android Developer!</h3>
 
-- 🌱 &ensp;I’m currently learning, and developing using Flutter Framework ❤️
-- 🌱 &ensp;I’m also developing APIs ❤️
+- 🌱 &ensp;I’m currently learning, and developing Android applications and APIs ❤️
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] [**Email**][email] [**Linkedin**][linkedin]
 <br />
 <br />
