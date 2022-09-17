@@ -1,4 +1,4 @@
-<h1 align="left"> Hi 👋, I'm an android developer!</h3>
+<h1 align="left"> Hi 👋, I'm a developer!</h3>
 
 - 🌱 &ensp;I’m currently learning, designing and developing Android applications and APIs ❤️
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] [**Email**][email] [**Linkedin**][linkedin]
