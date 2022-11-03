@@ -7,14 +7,16 @@
 
 
 ### Languages and Tools
+
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt=“HTML” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt=“CSS” width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt=“JavaScript” width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt=“Node JS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt=“Hive” width="26px" src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" />
 <br />
 <br />
 
