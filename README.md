@@ -1,6 +1,6 @@
 <h1 align="left"> Hi 👋, I'm a developer!</h3>
 
-- 🌱 &ensp;I’m currently learning, designing and developing Android applications and APIs ❤️
+- 🌱 &ensp;I develop cross platform applications and APIs ❤️
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] [**Email**][email] [**Linkedin**][linkedin]
 <br />
 <br />
