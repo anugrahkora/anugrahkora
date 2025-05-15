@@ -16,7 +16,6 @@
 <img align="left" alt=“JavaScript” width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt=“Node JS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt=“Hive” width="26px" src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" />
 <br />
 <br />
 
